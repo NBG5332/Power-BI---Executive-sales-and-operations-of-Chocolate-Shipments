@@ -34,6 +34,5 @@ powerbi-chocolate-shipments/
 │  ├─ dax_measures.md
 │  └─ HOWTO.md
 └─ images/
-   ├─ cover.png
-   └─ sheets/
+   ├─ sheets in PDF
 ```
